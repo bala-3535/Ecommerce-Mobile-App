@@ -1,0 +1,43 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# Android related
+*.jks
+*.keystore
+android/.gradle
+android/captures/
+android/key.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Runner.xcworkspace/
+
+# Web
+web/.dart_tool/
+web/.packages
+
+# Linux
+linux/flutter/ephemeral/
+linux/CMakeFiles/
+linux/Makefile
+linux/cmake-build-debug/
+
+# Windows
+window
