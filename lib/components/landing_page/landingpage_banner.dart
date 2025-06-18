@@ -16,6 +16,7 @@ class _LandingpageBannerState extends State<LandingpageBanner> {
     {'image': 'assets/images/title4.jpg'},
     {'image': 'assets/images/title1.jpg'},
   ];
+  @override
   Widget build(BuildContext context) {
     return Column(
       children: [
